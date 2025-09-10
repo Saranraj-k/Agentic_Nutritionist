@@ -30,8 +30,6 @@ Agentic Nutritionist aims to bridge the gap between users and intelligent nutrit
 - **YAML** 📄: Used for agent and task configuration, enabling no-code/low-code extensibility.
 - **Gradio** 🚀: For UI.
 - **Other AI/ML Libraries**: Such as `transformers`, `PIL` for image processing, and `pydantic` for data validation.
-- **Docker** 🐳: For containerized deployment.
-- _Add any other tools/libraries specific to your implementation here!_
 
 ---
 
@@ -111,8 +109,6 @@ Multimodal LLMs are central to Agentic Nutritionist, enabling the system to:
 4. **Run the application:**
     ```bash
     python app.py
-    # Or, if using Docker:
-    docker compose up
     ```
 
 ---
