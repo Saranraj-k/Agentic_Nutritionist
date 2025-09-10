@@ -2,6 +2,7 @@
 
 Agentic Nutritionist is an advanced AI-powered application designed to provide personalized nutrition advice and planning using agent-based architectures and multimodal large language models (LLMs). This project integrates various AI tools, leverages YAML-driven agent/task creation, and is architected for flexibility and extensibility in the evolving landscape of AI health assistants.
 
+![Demo of Agentic Nutritionist](misc/demo-ezgif.com-optimize.gif)
 ---
 
 ## 📚 Table of Contents
