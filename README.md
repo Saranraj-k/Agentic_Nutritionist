@@ -28,7 +28,7 @@ Agentic Nutritionist aims to bridge the gap between users and intelligent nutrit
 - **Python** 🐍: Core programming language for logic and pipeline orchestration.
 - **Multimodal LLMs** 🤖🖼️: Enables understanding and reasoning over both text and images (e.g., OpenAI GPT-4V, CLIP, LLaVA, etc.).
 - **YAML** 📄: Used for agent and task configuration, enabling no-code/low-code extensibility.
-- **FastAPI / Flask** 🚀: For API endpoints (if applicable).
+- **Gradio** 🚀: For UI.
 - **Other AI/ML Libraries**: Such as `transformers`, `PIL` for image processing, and `pydantic` for data validation.
 - **Docker** 🐳: For containerized deployment.
 - _Add any other tools/libraries specific to your implementation here!_
